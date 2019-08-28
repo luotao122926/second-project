@@ -11,5 +11,5 @@ import java.util.List;
  */
 @Data
 public class NavigationVo extends Navigation {
-    List<NavMenu> navMenuList;
+    private List<NavMenu> navMenuList;
 }

@@ -11,5 +11,5 @@ import java.util.List;
  */
 @Data
 public class SubMenuVo extends SubMenu {
-    List<SubMenu1> subMenu1List;
+    private List<SubMenu1> subMenu1List;
 }
